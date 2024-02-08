@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/018_merns/static/css/main.8ec74877.css",
+    "main.js": "/018_merns/static/js/main.8845f200.js",
+    "static/js/592.20af27a3.chunk.js": "/018_merns/static/js/592.20af27a3.chunk.js",
+    "static/media/manish.jpg": "/018_merns/static/media/manish.10060538fe03057bb628.jpg",
+    "index.html": "/018_merns/index.html",
+    "main.8ec74877.css.map": "/018_merns/static/css/main.8ec74877.css.map",
+    "main.8845f200.js.map": "/018_merns/static/js/main.8845f200.js.map",
+    "592.20af27a3.chunk.js.map": "/018_merns/static/js/592.20af27a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ec74877.css",
+    "static/js/main.8845f200.js"
+  ]
+}
